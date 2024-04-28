@@ -1,4 +1,5 @@
 -- Creates database hbnb_dev_db
+
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 USE hbnb_dev_db;
 CREATE USER IF NOT EXISTS 'hbnb_dev'@'localhost';
